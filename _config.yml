@@ -1,24 +1,24 @@
 # Site settings
-title:       Zp Bappi
-email:       zpbappi@gmail.com
-author:      Zp Bappi
-description: my technology blog
-baseurl:     ""
-url:         "https://zpbappi.com"
-timezone:    "Australia/Sydney"
+# title:       Zp Bappi
+# email:       zpbappi@gmail.com
+# author:      Zp Bappi
+# description: my technology blog
+# baseurl:     ""
+# url:         "https://zpbappi.com"
+# timezone:    "Australia/Sydney"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_analytics: 
+# google_analytics: 
 # UA-51923354-1
-google_verification:
+# google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics: 
+# google_analytics: 
 # UA-51923354-1
-google_tag_manager: G-VTDRPKZTP2
+# google_tag_manager: G-VTDRPKZTP2
 # Bing services
-bing_verification:
+# bing_verification:
 
 # Optional features
 animated:             true
